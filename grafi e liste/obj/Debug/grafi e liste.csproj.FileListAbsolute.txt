@@ -1,0 +1,20 @@
+C:\Users\homepc\Desktop\grafi e liste\bin\Debug\grafi e liste.exe.config
+C:\Users\homepc\Desktop\grafi e liste\bin\Debug\grafi e liste.exe
+C:\Users\homepc\Desktop\grafi e liste\bin\Debug\grafi e liste.pdb
+C:\Users\homepc\Desktop\grafi e liste\obj\Debug\grafi e liste.csproj.AssemblyReference.cache
+C:\Users\homepc\Desktop\grafi e liste\obj\Debug\grafi_e_liste.Form1.resources
+C:\Users\homepc\Desktop\grafi e liste\obj\Debug\grafi_e_liste.Properties.Resources.resources
+C:\Users\homepc\Desktop\grafi e liste\obj\Debug\grafi e liste.csproj.GenerateResource.cache
+C:\Users\homepc\Desktop\grafi e liste\obj\Debug\grafi e liste.csproj.CoreCompileInputs.cache
+C:\Users\homepc\Desktop\grafi e liste\obj\Debug\grafi e liste.exe
+C:\Users\homepc\Desktop\grafi e liste\obj\Debug\grafi e liste.pdb
+C:\Users\puglielli.20096\Desktop\grafi e liste\bin\Debug\grafi e liste.exe.config
+C:\Users\puglielli.20096\Desktop\grafi e liste\bin\Debug\grafi e liste.exe
+C:\Users\puglielli.20096\Desktop\grafi e liste\bin\Debug\grafi e liste.pdb
+C:\Users\puglielli.20096\Desktop\grafi e liste\obj\Debug\grafi e liste.csproj.AssemblyReference.cache
+C:\Users\puglielli.20096\Desktop\grafi e liste\obj\Debug\grafi_e_liste.Form1.resources
+C:\Users\puglielli.20096\Desktop\grafi e liste\obj\Debug\grafi_e_liste.Properties.Resources.resources
+C:\Users\puglielli.20096\Desktop\grafi e liste\obj\Debug\grafi e liste.csproj.GenerateResource.cache
+C:\Users\puglielli.20096\Desktop\grafi e liste\obj\Debug\grafi e liste.csproj.CoreCompileInputs.cache
+C:\Users\puglielli.20096\Desktop\grafi e liste\obj\Debug\grafi e liste.exe
+C:\Users\puglielli.20096\Desktop\grafi e liste\obj\Debug\grafi e liste.pdb
